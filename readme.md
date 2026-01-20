@@ -70,7 +70,8 @@ The tool will display merged branches and ask for confirmation before deleting.
 ##  Sample Output
 
 
-[problem] (screenshots/problem.png)
+![problem](screenshots/output.png)
+
 ![Git Clean Output](screenshots/output.png)
 
 ##  Future Improvements
