@@ -69,14 +69,9 @@ The tool will display merged branches and ask for confirmation before deleting.
 
 ##  Sample Output
 
-Merged branches:
-• test-clean
-Delete these branches? (y/n)
 
-yaml
-Copy code
-
----
+[problem] (screenshots/problem.png)
+![Git Clean Output](screenshots/output.png)
 
 ##  Future Improvements
 
